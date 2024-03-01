@@ -1,1 +1,2 @@
 # Mixture-of-Domain-Adapters
+This is a reproce work of [**Mixture-of-Domain-Adapters**](https://github.com/xu1868/Mixture-of-Domain-Adapters), and the original paper is [**Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models' Memories**](https://arxiv.org/pdf/2306.05406.pdf). This work use Llama instead of BERT and implement it in multilingual tasks.
